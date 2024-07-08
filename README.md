@@ -1,1 +1,1 @@
-# Poer-Bi-quiz
+# Power-Bi-quiz
